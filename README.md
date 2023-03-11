@@ -17,3 +17,17 @@ I'm karthik from India, I'm a fresher front-end developer with a passion for web
   <img align="center" width="400cm" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar-ke&layout=compact" />
 </a>
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kar-ke&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM) 
+</br>![karthik's github stats](https://github-readme-stats.vercel.app/api?username=kar-ke&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kar-ke&theme=dark&ring=DD0000&background=000000&stroke=FFEC00&dates=18DDD5)](https://git.io/streak-stats)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Connect with me:
+<div align="left">
+<a href="https://www.linkedin.com/in/karke/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
