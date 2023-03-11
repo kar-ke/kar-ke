@@ -3,6 +3,8 @@
 I'm a junior front-end developer at DeductiveClouds LLP,Bangalore,India. Im so passionate about exploring all aspects of web development and expanding my skillset to become a full-stack developer. Join me on my journey as I continue to grow and develop my skills to become a better programmer.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kar-ke&layout=compact&theme=radical&langs_count=10&hide=ShaderLab,LLVM)
 
 ![karthik's github stats](https://github-readme-stats.vercel.app/api?username=kar-ke&show_icons=true&theme=radical)
