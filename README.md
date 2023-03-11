@@ -28,11 +28,10 @@ I'm karthik from India, I'm a fresher front-end developer with a passion for web
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" alt="" align="left" >](https://reactjs.org/)
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br />
+<br />
+<br />
+<br />
 
-## Connect with me:
-<div align="left">
-<a href="https://www.linkedin.com/in/karke/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+## Find me on:
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50px" alt="" align="left">](https://www.linkedin.com/in/karke/)  
