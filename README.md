@@ -1,6 +1,6 @@
 ### Hey Guys, this is karthik 👋
 
-I'm an junior front-end developer working on a startup called DeductiveClouds LLP . I'm passionate about exploring all aspects of web development and expanding my skillsets to achieve a goal to become Fullstack developer. Follow along on my journey as I grow and develop my skills as a full-stack developer. I'm excited to collaborate with other developers.
+I'm a junior front-end developer at DeductiveClouds LLP, passionate about exploring all aspects of web development and expanding my skillset to become a full-stack developer. Join me on my journey as I continue to grow and develop my skills.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kar-ke&layout=compact&theme=radical&langs_count=10&hide=ShaderLab,LLVM)
