@@ -1,17 +1,10 @@
 ### Hey Guys, this is karthik 👋
 
-I'm karthik from India, I'm a fresher front-end developer with a passion for web development and a drive to learn full-stack development. I'm currently exploring different technologies and frameworks to expand my skillset and tackle more complex projects. and I'm excited to take on new challenges and work collaboratively with other developers. Follow along on my journey as I continue to grow and develop my skills as a full-stack developer.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
-
--  **Learning :** Full-Stack Development |  DSA :zap:
--  **Languages :** Python, JavaScript :fire:
--  **Framework:** React 🔨
--  **Hobbies :** Books, Movies & Music :headphones:
+I'm a junior front-end developer at Bangalore based service startup. since im a junior i love to explore all the aspects of web development. I'm currently exploring different technologies and frameworks to expand my skillset and tackle more complex projects. Follow along on my journey as I continue to grow and develop my skills as a full-stack developer.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kar-ke&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM) 
 <br/>
